@@ -153,6 +153,8 @@ class Plak:
         for item in unicoded:
             self.playMusicForPlaylist("./source/PlakBase/Musics/"+item + ".wav" , original[i])
             i+= 1
+
+        self.run()
        
         pass
 
