@@ -1,4 +1,8 @@
 # PLAK CLI
 
+## Inspired By
+
+<code> https://github.com/koply/pikap </code>
+
 ## Installation
-Yaıcam daha ama işendim :)
+Yazıcam daha ama üşendim :)
